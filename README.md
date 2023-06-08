@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 <!--语言使用统计：-->
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhansu615&theme=radical&layout=compact"  />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhansu615&repo=yuhansu615)](https://github.com/yuhansu615/yuhansu615.git)
+
 -->
