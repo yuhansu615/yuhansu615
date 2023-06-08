@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 <!-- 例如下面的图片会显示一个绿色的label为lLanguage，信息为Python的徽标 -->
 ![decription](https://img.shields.io/badge/Language-Python-green)
 
+![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
+
 -->
