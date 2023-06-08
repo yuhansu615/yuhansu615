@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuhansu615&repo=yuhansu615)](https://github.com/yuhansu615/yuhansu615.git)
 
+![decription](https://img.shields.io/badge/<label>-<message>-<color>)
+
+<!-- 例如下面的图片会显示一个绿色的label为lLanguage，信息为Python的徽标 -->
+![decription](https://img.shields.io/badge/Language-Python-green)
+
 -->
