@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=yuhansu615&theme=yuhansu615)
-
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renzehua1998&theme=vue)
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 
 -->
