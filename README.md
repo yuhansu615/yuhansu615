@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
+  <img alt="github-snake" src="/output/github-snake.svg">
+</picture>
 -->
